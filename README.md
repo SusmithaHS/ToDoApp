@@ -19,4 +19,4 @@ Create a simple desktop-based **To-Do List Application** using **Java Swing GUI*
 ---
 
 ## output
-- sample output(
+- sample output(https://github.com/SusmithaHS/ToDoApp/blob/main/Screenshot%202025-07-01%20203002.png)
